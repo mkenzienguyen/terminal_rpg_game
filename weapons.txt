@@ -1,0 +1,54 @@
+# WEAPONS DATABASE
+# Format: Name|Attack|Rarity|Durability|Cost|Type|Special_Effect|Description
+# Rarity: Common, Uncommon, Rare, Epic, Legendary
+# Type: Sword, Axe, Bow, Staff, Dagger, Hammer, Spear
+# Durability: Max uses before breaking (0 = infinite)
+# Special_Effect: passive bonuses or abilities
+
+# ===== COMMON WEAPONS =====
+Rusty Sword|5.0|Common|15|10|Sword|None|An old, worn blade that has seen better days
+Wooden Club|4.5|Common|20|8|Hammer|None|A simple club carved from oak wood
+Hunting Knife|6.0|Common|25|15|Dagger|None|A basic knife used for hunting and combat
+Short Bow|7.0|Common|30|20|Bow|None|A simple bow for beginners
+Wooden Staff|5.5|Common|35|12|Staff|None|A basic staff for aspiring mages
+
+# ===== UNCOMMON WEAPONS =====
+Iron Sword|12.0|Uncommon|50|50|Sword|None|A well-crafted iron blade
+Battle Axe|15.0|Uncommon|45|60|Axe|None|A heavy axe designed for combat
+Long Bow|14.0|Uncommon|40|55|Bow|+10% Critical|A finely crafted bow with good range
+Steel Dagger|10.0|Uncommon|55|45|Dagger|+15% Speed|Quick and deadly blade
+Apprentice Staff|13.0|Uncommon|60|50|Staff|+5 Magic|A staff imbued with minor magic
+
+# ===== RARE WEAPONS =====
+Silver Sword|22.0|Rare|80|150|Sword|+20% vs Undead|A blessed blade effective against dark creatures
+War Hammer|25.0|Rare|70|180|Hammer|Stun 10%|A massive hammer that can stun enemies
+Elven Bow|24.0|Rare|75|170|Bow|+20% Accuracy|An elegant bow crafted by elven artisans
+Shadow Blade|20.0|Rare|85|160|Dagger|Poison 15%|A dark dagger coated with venom
+Wizard's Staff|23.0|Rare|90|165|Staff|+15 Magic|A powerful staff channeling arcane energy
+Crystal Spear|21.0|Rare|75|155|Spear|+10% Pierce|A spear with a crystalline tip
+
+# ===== EPIC WEAPONS =====
+Flaming Greatsword|35.0|Epic|120|400|Sword|Fire Damage +10|A massive blade wreathed in eternal flames
+Dragon Slayer Axe|38.0|Epic|110|450|Axe|+50% vs Dragons|Forged to slay the mightiest beasts
+Phantom Bow|33.0|Epic|125|420|Bow|Ignore 20% Defense|A mystical bow that phases through armor
+Void Dagger|30.0|Epic|130|380|Dagger|Lifesteal 15%|A cursed blade that steals life force
+Archmage Staff|36.0|Epic|140|430|Staff|+30 Magic|Staff of a legendary archmage
+Thunder Spear|34.0|Epic|115|410|Spear|Lightning Strike|A spear blessed by the storm gods
+
+# ===== LEGENDARY WEAPONS =====
+Excalibur|50.0|Legendary|0|1000|Sword|+25 All Stats|The legendary sword of kings
+Mjolnir|55.0|Legendary|0|1200|Hammer|Chain Lightning|The hammer of the thunder god
+Artemis's Bow|48.0|Legendary|0|1100|Bow|Never Miss|The divine bow of the hunt goddess
+Deathbringer|45.0|Legendary|0|950|Dagger|Instant Kill 5%|A blade that can end life instantly
+Staff of Eternity|52.0|Legendary|0|1150|Staff|Infinite Mana|A staff containing endless magical power
+Gungnir|51.0|Legendary|0|1080|Spear|Always Returns|The all-father's spear that never misses
+
+# ===== SPECIAL/UNIQUE WEAPONS =====
+Beginner's Blade|3.0|Common|999|5|Sword|+10% EXP|A training sword that helps you learn
+Lucky Charm Dagger|8.0|Uncommon|100|75|Dagger|+20% Gold Find|A blade that attracts treasure
+Vampire Fang|28.0|Rare|90|300|Dagger|Lifesteal 25%|A dagger crafted from a vampire's fang
+Frost Hammer|32.0|Epic|100|500|Hammer|Freeze 20%|A hammer that freezes enemies solid
+Soul Reaper|60.0|Legendary|1|2000|Sword|Soul Drain|Destroys itself after one devastating strike
+Broken Sword|1.0|Common|5|1|Sword|None|A completely shattered blade, nearly useless
+Cursed Blade|40.0|Epic|50|200|Sword|-10 HP per hit|Powerful but damages the wielder
+Peacemaker|0.0|Uncommon|0|100|Staff|Pacify Enemies|A staff that can calm hostile creatures
